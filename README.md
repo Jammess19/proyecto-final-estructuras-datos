@@ -71,7 +71,16 @@ proyecto-final/
 ├── leetcode/
 │   ├── validarParentesis.js
 │   └── listaInvertida.js
+├── evidencias/
+│   ├── lista-invertida.png
+│   ├── validar-parentesis.png
+│   ├── simulador1.png
+│   ├── simulador2.png
+│   ├── overflow.png
+│   └── underflow.png
+│
 └── README.md
+
 ```
 
 ## 7. Ejecución del simulador
